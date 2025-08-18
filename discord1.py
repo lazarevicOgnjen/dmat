@@ -9,7 +9,7 @@ for url in WEBHOOK_URL:
 
     embed = Embed(
         description="**[DMAT forum link - click here -](https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=97)**",
-        color=0x3498DB
+        color=0x3498DB,
         url="https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=97"
     )
 
