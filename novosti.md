@@ -1,6 +1,12 @@
 Advanced search...
 Forums
-Search results: 9
+Search results: 10
+News forum -> Rezultati DM januar 2025.
+by Stefan Stankov - Friday, 29 August 2025, 2:54 PM
+Rezultati ispita iz predmeta Diskretna matematika u januarskom ispitnom roku 2025. godine nalaze se u prilogu.
+Rez_jan_2025.pdf
+Permalink
+See this post in context
 News forum -> Rezultati DM decembar 2024.
 by Stefan Stankov - Saturday, 7 December 2024, 2:00 PM
 Rezultati ispita iz predmeta Diskretna matematika u decembarskom ispitnom roku 2024. godine nalaze se u prilogu.
