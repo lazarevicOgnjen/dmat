@@ -1,14 +1,67 @@
-Katedra za računarstvo
-Username
-Password
-Remember username
-Log in
-Forgotten your username or password?
-Cookies must be enabled in your browser
-Log in using your account on:
-OpenID Connect
-Is this your first time here?
-STUDENTI: Za prijavljivanje koristite opciju OpenID Connect i SIP nalog i lozinku!
-Vodite računa da uvek koristite punu e-mail adresu kao korisničko ime.
+Advanced search...
+Forums
+Search results: 10
+News forum -> Rezultati DM januar 2025.
+by Stefan Stankov - Friday, 29 August 2025, 2:54 PM
+Rezultati ispita iz predmeta Diskretna matematika u januarskom ispitnom roku 2025. godine nalaze se u prilogu.
+Rez_jan_2025.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM decembar 2024.
+by Stefan Stankov - Saturday, 7 December 2024, 2:00 PM
+Rezultati ispita iz predmeta Diskretna matematika u decembarskom ispitnom roku 2024. godine nalaze se u prilogu.
+Rez_dec_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM oktobar (dodatno polaganje) 2024.
+by Stefan Stankov - Monday, 30 September 2024, 1:12 PM
+Rezultati ispita iz predmeta Diskretna matematika u oktobarskom ispitnom roku (dodatno polaganje) nalaze se u prilogu.
+Rez_okt2_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM oktobar 2024.
+by Stefan Stankov - Saturday, 14 September 2024, 7:13 AM
+Rezultati ispita iz predmeta Diskretna matematika u oktobarskom ispitnom roku nalaze se u prilogu.
 
-ZAPOSLENI: Način prijavljivanja je nepromenjen.
+DM-okt-2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM septembar 2024.
+by Stefan Stankov - Saturday, 24 August 2024, 5:11 AM
+Rezultati ispita iz predmeta Diskretna matematika u septembarskom ispitnom roku nalaze se u prilogu.
+
+
+DM-sept-2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM Jun 2 2024.
+by Stefan Stankov - Wednesday, 3 July 2024, 2:28 PM
+
+Rezultati ispita iz predmeta Diskretna matematika u ispitnom roku Jun 2 nalaze se u prilogu.
+Rez_jun2_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM Jun 1 2024.
+by Stefan Stankov - Friday, 14 June 2024, 10:17 AM
+Rezultati ispita iz predmeta Diskretna matematika u ispitnom roku Jun 1 nalaze se u prilogu.
+Rez_jun1_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM april 2024.
+by Stefan Stankov - Monday, 1 April 2024, 12:23 PM
+Rezultati ispita iz predmeta Diskretna matematika u aprilskom ispitnom roku nalaze se u prilogu.
+Rez_april_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM Januar
+by Stefan Stankov - Thursday, 1 February 2024, 11:32 AM
+Rezultati ispita iz predmeta Diskretna matematika u januarskom ispitnom roku nalaze se u prilogu.
+Rez_jan_2024.pdf
+Permalink
+See this post in context
+News forum -> Rezultati DM kolokvijum
+by Stefan Stankov - Tuesday, 16 January 2024, 11:24 AM
+Rezultati kolokvijuma iz predmeta Diskretna matematika nalaze se u prilogu.
+Rez_kolokvijum_jan_2024.pdf
+Permalink
+See this post in context
