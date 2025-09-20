@@ -1,6 +1,17 @@
 Advanced search...
 Forums
-Search results: 10
+Search results: 11
+1
+(current)
+2
+»
+Next page
+News forum -> Rezultati DM jun 2025.
+by Stefan Stankov - Wednesday, 10 September 2025, 2:09 PM
+Rezultati ispita iz predmeta Diskretna matematika u junskom ispitnom roku 2025. godine nalaze se u prilogu.
+Rez_jun_2025.pdf
+Permalink
+See this post in context
 News forum -> Rezultati DM januar 2025.
 by Stefan Stankov - Friday, 29 August 2025, 2:54 PM
 Rezultati ispita iz predmeta Diskretna matematika u januarskom ispitnom roku 2025. godine nalaze se u prilogu.
@@ -59,9 +70,8 @@ Rezultati ispita iz predmeta Diskretna matematika u januarskom ispitnom roku nal
 Rez_jan_2024.pdf
 Permalink
 See this post in context
-News forum -> Rezultati DM kolokvijum
-by Stefan Stankov - Tuesday, 16 January 2024, 11:24 AM
-Rezultati kolokvijuma iz predmeta Diskretna matematika nalaze se u prilogu.
-Rez_kolokvijum_jan_2024.pdf
-Permalink
-See this post in context
+1
+(current)
+2
+»
+Next page
